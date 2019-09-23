@@ -1,0 +1,2 @@
+include ':app', ':base', ':mqtt'
+rootProject.name='MQTTClientApplication'

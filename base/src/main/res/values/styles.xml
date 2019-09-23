@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="BorderTextViewNeutralText">
+        <item name="android:textColor">@color/white</item>
+        <item name="borderStrokeColor">@color/text_weak</item>
+        <item name="contentBackColor">@color/green</item>
+        <item name="contentPressedColor">#45000000</item>
+        <item name="cornerRadius">4dp</item>
+        <item name="strokeWidth">1px</item>
+    </style>
+
+
+</resources>
